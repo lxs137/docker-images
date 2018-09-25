@@ -1,0 +1,9 @@
+{
+    "@class": "org.apereo.cas.services.RegexRegisteredService",
+    "serviceId": "^(http|https)://.*",
+//    "serviceId": "^(http|https)://.*\\.njuics\\.cn.*",
+    "name": "NJU-ICS SSO Services",
+    "id": 1537693609,
+    "evaluationOrder": 0,
+    "logoutType": "BACK_CHANNEL"
+}
